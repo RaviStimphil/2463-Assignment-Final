@@ -1,0 +1,54 @@
+{"frames": [
+    {
+        "name": "sprite-00",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    },
+    {
+        "name": "sprite-01",
+        "position": {
+            "x": 48,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        }
+    }
+
+],
+"attack": [
+    
+{
+    "name": "sprite-02",
+    "position": {
+        "x": 0,
+        "y": 48,
+        "w": 48,
+        "h": 48
+    }
+},
+{
+    "name": "sprite-03",
+    "position": {
+        "x": 48,
+        "y": 48,
+        "w": 48,
+        "h": 48
+    }
+},
+{
+    "name": "sprite-04",
+    "position": {
+        "x": 0,
+        "y": 96,
+        "w": 48,
+        "h": 48
+    }
+}
+
+
+]
+}
